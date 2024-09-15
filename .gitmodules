@@ -1,0 +1,3 @@
+[submodule "themes/snack-theme-minimal"]
+	path = themes/snack-theme-minimal
+	url = git@github.com:bytehunger/snack-theme-minimal.git
