@@ -1,5 +1,7 @@
 ---
-title: 'Dinner is ready!'
-description: 'Welcome to the bytehunger website!'
-sections: []
-
+title: 'Website under construction'
+description: 'This website is currently under construction.'
+sections:
+  - type: headline
+    content:
+      text: 'bytehunger'
